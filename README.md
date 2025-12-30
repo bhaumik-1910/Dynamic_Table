@@ -1,5 +1,5 @@
 # 📊 Dynamic Table (React + Vite)
-
+ 
 Dynamic Table is a **React + Vite frontend project** that demonstrates building an interactive table UI.  
 It allows users to view and manipulate table data dynamically — perfect for learning React state handling, event handling, and UI updates.
 
